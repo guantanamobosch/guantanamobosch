@@ -1,6 +1,14 @@
 ### Hello and welcome to my github profile!
 
-#### Hello
+#### My name is Luke, and I am a fullstack developer living in Santa Fe, NM.
+
+#### 🔭 I’m currently working on ...
+
+##### A message board app for my fellow engineering fellows and a Blockbuster-inspired "streaming" service.
+
+#### 🌱 I’m currently learning ...
+
+##### The MERN-Stack and Ruby on Rails
 
 <!--
 **guantanamobosch/guantanamobosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
