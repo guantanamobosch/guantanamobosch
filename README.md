@@ -4,7 +4,7 @@
 
 #### 🔭 I’m currently working on ...
 
-##### A message board app for my fellow engineering fellows and a Blockbuster-inspired "streaming" service.
+##### Touching up my pinned projects and designing my portfolio site.
 
 #### 🌱 I’m currently learning ...
 
