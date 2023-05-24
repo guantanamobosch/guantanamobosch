@@ -4,11 +4,11 @@
 
 #### 🔭 I’m currently working on ...
 
-##### Touching up my pinned projects and designing my portfolio site.
+##### Touching up my pinned projects.
 
 #### 🌱 I’m currently learning ...
 
-##### The MERN-Stack and Ruby on Rails
+##### Comparison and distribution sorting algorithms.
 
 <!--
 **guantanamobosch/guantanamobosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
