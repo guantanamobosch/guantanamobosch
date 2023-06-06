@@ -4,7 +4,7 @@
 
 #### 🔭 I’m currently working on ...
 
-##### Touching up my pinned projects.
+##### A little command-line calculator written in C++.
 
 #### 🌱 I’m currently learning ...
 
