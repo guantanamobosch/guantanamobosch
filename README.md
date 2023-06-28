@@ -4,7 +4,7 @@
 
 #### 🔭 I’m currently working on ...
 
-##### A little command-line calculator written in C++.
+##### A MyChart-inspired Health application for dog-owners to track their dog's medical history and get information about their dog's needs!
 
 #### 🌱 I’m currently learning ...
 
